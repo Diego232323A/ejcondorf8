@@ -1,1 +1,3 @@
 Crear primero la base de datos con el cliente
+Recursos
+https://github.com/codigofacilito/FASTAPI_Project/tree/main/project
