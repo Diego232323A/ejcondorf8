@@ -1,0 +1,8 @@
+# expo
+1.Instalar sdk .NET 6
+https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+2.Instarlar Node.js LTS
+https://nodejs.org/es
+3.Intstalar python
+https://www.python.org/downloads/release/python-3114/
+Nota: En los instaladores agregar al PATH para que funcione desde el cmd si no agregar la variable en el entorno del sistema
