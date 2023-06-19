@@ -1,8 +1,0 @@
-framework
-FastApi
-servidor
-uvicorn
-ORM
-peewwee
-Gestor
-mysqlclient
